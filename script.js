@@ -4,7 +4,7 @@ function addTwoNumbers(textBox1, textBox2){
 				var y=document.getElementById(textBox2).value;
 				var sum=0;
 				sum=Number(x)+Number(y);
-				alert("SUM is: " + sum);
+				alert("Answer is: " + sum);
                         
 }
 
